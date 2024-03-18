@@ -6,14 +6,21 @@ The Face Recognition Project is a Python-based application that utilizes machine
 
 ## Features 🚀
 
-Security and Access Control.
-Law Enforcement.
-Border Control and Immigration.
-Attendance Tracking.
-Personal Device Authentication.
-Customer Experience and Personalization.
-Healthcare.
-Smart Cities.
-Event Management.
-Financial Services.
+- Detect and recognize faces in images or video streams.
+- Multiclassification for identifying multiple individuals.
+- Trainable models to adapt to specific datasets.
+- Integration with webcam for real-time face recognition.
+
+## Real-life Applications 🏢
+
+- Security and Access Control
+- Law Enforcement
+- Border Control and Immigration
+- Attendance Tracking
+- Personal Device Authentication
+- Customer Experience and Personalization
+- Healthcare
+- Smart Cities
+- Event Management
+- Financial Services
   
